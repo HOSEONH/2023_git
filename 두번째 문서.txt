@@ -1,1 +1,6 @@
 두번째내용입니다
+git commit -m 
+git log : 커밋이 2개 확인
+
+git clone을 통해 전페를 복사해오면
+git 살아있다
